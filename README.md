@@ -1,2 +1,2 @@
-# projPeopleSystem
-Projeto realizado em sala de aula, durante a cadeira de orientação a objetos da pós de desenvolvimento backend.
+# PeopleSystemEspec2023
+Sistema de cadastro de Pessoas. Especialização Back 2023.2
